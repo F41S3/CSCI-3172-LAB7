@@ -5,7 +5,7 @@
 * *Date Created*: 04 11 2024
 * *Last Modification Date*: 04 11 2024
 * *Lab URL*: <https://git.cs.dal.ca/apettipas/lab7>
-* *Host URL*: 
+* *Host URL*: <https://apettipas-csci-3172-l7.netlify.app/>
 
 
 
