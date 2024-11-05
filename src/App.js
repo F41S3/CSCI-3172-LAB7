@@ -10,8 +10,8 @@ function App() {
             <section id="contentHolder">
                 <div id="sliderContainer">
                     <div className="imageSlider">
-                        <img src={require("./images/0-5000x3333.jpg")} alt="Placeholder image of laptop"/>
-                        <img src={require("./images/20-3670x2462.jpg")} alt="Placeholder image of a study area"/>
+                        <img src={require("./images/0-5000x3333.jpg")} alt="Placeholder laptop"/>
+                        <img src={require("./images/20-3670x2462.jpg")} alt="Placeholder study area"/>
                     </div>
                 </div>
                 <section className="content">
