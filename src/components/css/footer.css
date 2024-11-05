@@ -1,0 +1,46 @@
+/*
+https://www.w3schools.com/howto/howto_css_three_columns.asp
+ */
+body {
+    font-family: sans-serif;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    padding: 1% 1%;
+    margin: 1% 1%;
+    background-color: #203b51;
+    max-width: 1200px;
+}
+
+.footer-heading {
+    color: white;
+}
+
+.col {
+    float: left;
+    width: 33%;
+    padding: 10px;
+}
+
+.footer-links li a {
+    float: left;
+    text-decoration: none;
+    color: white;
+}
+
+.footer-legal {
+    float: left;
+    width: 100%;
+    background-color: black;
+}
+
+.col2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+
+
